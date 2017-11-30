@@ -1,4 +1,5 @@
 # JavaScript 全阵容快速浏览
+不忘初心，查漏补缺，喜不胜收...
 
 ## 列表
 * [Array](https://github.com/zhw2590582/js-quick-view/blob/master/Array.js)
