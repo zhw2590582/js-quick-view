@@ -14,7 +14,7 @@ Array.prototype.concat() // 合并并返回新数组
 Array.prototype.copyWithin() // 浅复制数组的一部分到同一数组中的另一个位置，并返回它，而不修改其大小，即数组内的移动覆盖
 Array.prototype.entries() // 返回一个新的 Array Iterator 对象
 Array.prototype.every() // 测试数组的所有元素是否都通过了指定函数的测试
-Array.prototype.fill() // 用一个固定值填充一个数组中从起始索引到终止索引内的全部元素,快速构建类数组：[].fill.call({length: 3}, 4) ==> {0: 4, 1: 4, 2: 4, length: 3}
+Array.prototype.fill() // 用一个固定值填充一个数组中从起始索引到终止索引内的全部元素
 Array.prototype.filter() // 创建一个新数组, 其包含通过所提供函数实现的测试的所有元素
 Array.prototype.find() // 返回数组中满足提供的测试函数的第一个元素的值。否则返回 undefined
 Array.prototype.findIndex() // 返回数组中满足提供的测试函数的第一个元素的索引。否则返回-1
@@ -40,3 +40,7 @@ Array.prototype.toSource() // 返回一个字符串,代表该数组的源代码
 Array.prototype.toString() // 返回一个字符串，表示指定的数组及其元素
 Array.prototype.unshift() // 将一个或多个元素添加到数组的开头，并返回新数组的长度
 Array.prototype.values() // 返回一个新的 Array Iterator 对象，该对象包含数组每个索引的值
+
+
+
+
