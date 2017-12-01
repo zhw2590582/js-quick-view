@@ -2,7 +2,7 @@
 不忘初心，查漏补缺，喜不胜收...
 
 ## 列表
-* [Array](https://github.com/zhw2590582/js-quick-view/blob/master/Array.js)
+* [Array -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Array.js)
 * [ArrayBuffer](https://github.com/zhw2590582/js-quick-view/blob/master/ArrayBuffer.js)
 * [Atomics](https://github.com/zhw2590582/js-quick-view/blob/master/Atomics.js)
 * [Boolean](https://github.com/zhw2590582/js-quick-view/blob/master/Boolean.js)
@@ -12,7 +12,7 @@
 * [Errors](https://github.com/zhw2590582/js-quick-view/blob/master/Errors.js)
 * [Function](https://github.com/zhw2590582/js-quick-view/blob/master/Function.js)
 * [Generator](https://github.com/zhw2590582/js-quick-view/blob/master/Generator.js)
-* [Global_Objects](https://github.com/zhw2590582/js-quick-view/blob/master/Global_Objects.js)
+* [Global Objects](https://github.com/zhw2590582/js-quick-view/blob/master/Global_Objects.js)
 * [Intl](https://github.com/zhw2590582/js-quick-view/blob/master/Intl.js)
 * [JSON](https://github.com/zhw2590582/js-quick-view/blob/master/JSON.js)
 * [Map](https://github.com/zhw2590582/js-quick-view/blob/master/Map.js)
