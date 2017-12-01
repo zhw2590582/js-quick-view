@@ -1,15 +1,14 @@
 // 参考：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array
 // 备注：省略了Symbol部分
 
-// 静态属性
-Array.name // 字符串：'Array'
+// 属性
 Array.length // 实例数组长度
-Array.prototype // 构造函数的原型
+Array.prototype // 构造函数的原型对象
 Array.from() // 从一个类似数组或可迭代对象中创建一个新的数组实例
 Array.isArray() // 用于确定传递的值是否是一个数组
 Array.of() // 创建一个具有可变数量参数的新数组实例：Array.of(1, 2, 3) ==> [1, 2, 3]
 
-// 原始对象
+// 方法
 Array.prototype.concat() // 合并并返回新数组
 Array.prototype.copyWithin() // 浅复制数组的一部分到同一数组中的另一个位置，并返回它，而不修改其大小，即数组内的移动覆盖
 Array.prototype.entries() // 返回一个新的 Array Iterator 对象

@@ -19,7 +19,7 @@
 * [Math](https://github.com/zhw2590582/js-quick-view/blob/master/Math.js)
 * [Miscellaneous](https://github.com/zhw2590582/js-quick-view/blob/master/Miscellaneous.js)
 * [Number](https://github.com/zhw2590582/js-quick-view/blob/master/Number.js)
-* [Object](https://github.com/zhw2590582/js-quick-view/blob/master/Object.js)
+* [Object -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Object.js)
 * [Operators](https://github.com/zhw2590582/js-quick-view/blob/master/Operators.js)
 * [Promise](https://github.com/zhw2590582/js-quick-view/blob/master/Promise.js)
 * [Proxy](https://github.com/zhw2590582/js-quick-view/blob/master/Proxy.js)
