@@ -3,7 +3,7 @@
 
 // 属性
 Object.prototype // 构造函数的原型对象
-Object.prototype.__proto__ // Object.prototype 一个简单的访问器属性，其中包含了get（获取）和set（设置）的方法，任何一个__proto__的存取属性都继承于Object.prototype
+Object.prototype.__proto__ // Object.prototype 一个简单的访问器属性，其中包含了get（获取）和set（设置）的方法
 Object.prototype.constructor // 返回创建实例对象的 Object 构造函数的引用
 
 // 方法
@@ -34,3 +34,4 @@ Object.prototype.valueOf() // 返回指定对象的原始值
 Object.seal() // 可以让一个对象密封，并返回被密封后的对象
 Object.setPrototypeOf() // 设置一个指定的对象的原型 ( 即, 内部[[Prototype]]属性）到另一个对象或  null
 Object.values() // 返回一个给定对象自己的所有可枚举属性值的数组
+
