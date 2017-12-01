@@ -41,6 +41,3 @@ Array.prototype.toString() // 返回一个字符串，表示指定的数组及�
 Array.prototype.unshift() // 将一个或多个元素添加到数组的开头，并返回新数组的长度
 Array.prototype.values() // 返回一个新的 Array Iterator 对象，该对象包含数组每个索引的值
 
-
-
-
