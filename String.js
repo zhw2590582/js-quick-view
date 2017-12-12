@@ -3,7 +3,7 @@
 
 // 属性
 String.prototype // 原型对象
-string.length // 字符串长度
+String.length // 字符串长度
 
 // 方法
 String.fromCharCode() // 使用指定的Unicode值序列创建的字符串
