@@ -8,7 +8,7 @@
 * [Atomics](https://github.com/zhw2590582/js-quick-view/blob/master/Atomics.js)
 * [Boolean](https://github.com/zhw2590582/js-quick-view/blob/master/Boolean.js)
 * [DataView](https://github.com/zhw2590582/js-quick-view/blob/master/DataView.js)
-* [Date](https://github.com/zhw2590582/js-quick-view/blob/master/Date.js)
+* [Date -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Date.js)
 * [Error](https://github.com/zhw2590582/js-quick-view/blob/master/Error.js)
 * [EvalError](https://github.com/zhw2590582/js-quick-view/blob/master/EvalError.js)
 * [Float32Array](https://github.com/zhw2590582/js-quick-view/blob/master/Float32Array.js)
