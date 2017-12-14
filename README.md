@@ -32,7 +32,7 @@
 * [NaN -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/NaN.js)
 * [Number -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Number.js)
 * [Object -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Object.js)
-* [Promise](https://github.com/zhw2590582/js-quick-view/blob/master/Promise.js)
+* [Promise -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Promise.js)
 * [Proxy](https://github.com/zhw2590582/js-quick-view/blob/master/Proxy.js)
 * [RangeError](https://github.com/zhw2590582/js-quick-view/blob/master/RangeError.js)
 * [ReferenceError](https://github.com/zhw2590582/js-quick-view/blob/master/ReferenceError.js)
