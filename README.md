@@ -44,7 +44,7 @@
 * [String -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/String.js)
 * [Symbol](https://github.com/zhw2590582/js-quick-view/blob/master/Symbol.js)
 * [SyntaxError -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/SyntaxError.js)
-* [TypeError](https://github.com/zhw2590582/js-quick-view/blob/master/TypeError.js)
+* [TypeError -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/TypeError.js)
 * [TypedArray](https://github.com/zhw2590582/js-quick-view/blob/master/TypedArray.js)
 * [URIError -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/URIError.js)
 * [Uint16Array](https://github.com/zhw2590582/js-quick-view/blob/master/Uint16Array.js)
