@@ -65,7 +65,7 @@
 * [Uint8ClampedArray -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Uint8ClampedArray.js)
 * [WeakMap -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/WeakMap.js)
 * [WeakSet -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/WeakSet.js)
-* [WebAssembly](https://github.com/zhw2590582/js-quick-view/blob/master/WebAssembly.js)
+* [WebAssembly -- 待定:zap:](https://github.com/zhw2590582/js-quick-view/blob/master/WebAssembly.js)
 * [decodeURI -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/decodeURI.js)
 * [decodeURIComponent -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/decodeURIComponent.js)
 * [encodeURI -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/encodeURI.js)
