@@ -4,8 +4,8 @@
 ## 内置对象
 * [Array -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Array.js)
 * [ArrayBuffer -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/ArrayBuffer.js)
-* [AsyncFunction](https://github.com/zhw2590582/js-quick-view/blob/master/AsyncFunction.js)
-* [Atomics](https://github.com/zhw2590582/js-quick-view/blob/master/Atomics.js)
+* [AsyncFunction -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/AsyncFunction.js)
+* [Atomics -- 待定](https://github.com/zhw2590582/js-quick-view/blob/master/Atomics.js)
 * [Boolean -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Boolean.js)
 * [DataView](https://github.com/zhw2590582/js-quick-view/blob/master/DataView.js)
 * [Date -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Date.js)
