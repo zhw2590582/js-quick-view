@@ -114,6 +114,32 @@
 * [yield* -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/yield_star.js)
 
 ## 语句和声明
+* [async function](https://github.com/zhw2590582/js-quick-view/blob/master/Statements_async_function.js)
+* [block](https://github.com/zhw2590582/js-quick-view/blob/master/block.js)
+* [break](https://github.com/zhw2590582/js-quick-view/blob/master/break.js)
+* [class](https://github.com/zhw2590582/js-quick-view/blob/master/Statements_class.js)
+* [const](https://github.com/zhw2590582/js-quick-view/blob/master/const.js)
+* [continue](https://github.com/zhw2590582/js-quick-view/blob/master/continue.js)
+* [debugger](https://github.com/zhw2590582/js-quick-view/blob/master/debugger.js)
+* [default](https://github.com/zhw2590582/js-quick-view/blob/master/default.js)
+* [do...while](https://github.com/zhw2590582/js-quick-view/blob/master/do_while.js)
+* [empty](https://github.com/zhw2590582/js-quick-view/blob/master/empty.js)
+* [export](https://github.com/zhw2590582/js-quick-view/blob/master/export.js)
+* [for](https://github.com/zhw2590582/js-quick-view/blob/master/for.js)
+* [for...in](https://github.com/zhw2590582/js-quick-view/blob/master/for_in.js)
+* [for...of](https://github.com/zhw2590582/js-quick-view/blob/master/for_of.js)
+* [function](https://github.com/zhw2590582/js-quick-view/blob/master/Statements_function.js)
+* [function*](https://github.com/zhw2590582/js-quick-view/blob/master/Statements_function_star.js)
+* [if...else](https://github.com/zhw2590582/js-quick-view/blob/master/if_else.js)
+* [import](https://github.com/zhw2590582/js-quick-view/blob/master/import.js)
+* [label](https://github.com/zhw2590582/js-quick-view/blob/master/label.js)
+* [let](https://github.com/zhw2590582/js-quick-view/blob/master/let.js)
+* [return](https://github.com/zhw2590582/js-quick-view/blob/master/return.js)
+* [switch](https://github.com/zhw2590582/js-quick-view/blob/master/switch.js)
+* [throw](https://github.com/zhw2590582/js-quick-view/blob/master/throw.js)
+* [try...catch](https://github.com/zhw2590582/js-quick-view/blob/master/try_catch.js)
+* [var](https://github.com/zhw2590582/js-quick-view/blob/master/var.js)
+* [while](https://github.com/zhw2590582/js-quick-view/blob/master/while.js)
 
 ## 函数
 
