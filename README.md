@@ -21,7 +21,7 @@
 * [Int32Array -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Int32Array.js)
 * [Int8Array -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Int8Array.js)
 * [InternalError -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/InternalError.js)
-* [Intl](https://github.com/zhw2590582/js-quick-view/blob/master/Intl.js)
+* [Intl -- 待定:zap:](https://github.com/zhw2590582/js-quick-view/blob/master/Intl.js)
 * [Intl.Collator -- 待定:zap:](https://github.com/zhw2590582/js-quick-view/blob/master/Collator.js)
 * [Intl.DateTimeFormat -- 待定:zap:](https://github.com/zhw2590582/js-quick-view/blob/master/DateTimeFormat.js)
 * [Intl.NumberFormat -- 待定:zap:](https://github.com/zhw2590582/js-quick-view/blob/master/NumberFormat.js)
