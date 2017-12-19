@@ -142,9 +142,15 @@
 * [while](https://github.com/zhw2590582/js-quick-view/blob/master/while.js)
 
 ## 函数
+* [Arguments object](https://github.com/zhw2590582/js-quick-view/blob/master/arguments.js)
+* [Arrow functions](https://github.com/zhw2590582/js-quick-view/blob/master/Arrow_functions.js)
+* [Default parameters](https://github.com/zhw2590582/js-quick-view/blob/master/Default_parameters.js)
+* [Method definitions](https://github.com/zhw2590582/js-quick-view/blob/master/Method_definitions.js)
+* [Rest parameters](https://github.com/zhw2590582/js-quick-view/blob/master/rest_parameters.js)
+* [getter](https://github.com/zhw2590582/js-quick-view/blob/master/getter.js)
+* [setter](https://github.com/zhw2590582/js-quick-view/blob/master/setter.js)
 
 ## Classes
-
-## Errors
-
-## 更多
+* [constructor](https://github.com/zhw2590582/js-quick-view/blob/master/constructor.js)
+* [extends](https://github.com/zhw2590582/js-quick-view/blob/master/extends.js)
+* [static](https://github.com/zhw2590582/js-quick-view/blob/master/static.js)
