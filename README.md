@@ -151,10 +151,12 @@
 * [setter -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/setter.js)
 
 ## Classes
-* [constructor](https://github.com/zhw2590582/js-quick-view/blob/master/constructor.js)
-* [extends](https://github.com/zhw2590582/js-quick-view/blob/master/extends.js)
-* [static](https://github.com/zhw2590582/js-quick-view/blob/master/static.js)
+* [constructor -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/constructor.js)
+* [extends -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/extends.js)
+* [static -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/static.js)
 
 ## Errors
+* [Errors -- 待定:zap:](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Errors/Property_access_denied)
 
 ## 更多
+* [更多 -- 待定:zap:](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/JavaScript_technologies_overview)
