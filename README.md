@@ -142,13 +142,13 @@
 * [while -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/while.js)
 
 ## 函数
-* [Arguments object](https://github.com/zhw2590582/js-quick-view/blob/master/arguments.js)
-* [Arrow functions](https://github.com/zhw2590582/js-quick-view/blob/master/Arrow_functions.js)
+* [Arguments object -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/arguments.js)
+* [Arrow functions -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Arrow_functions.js)
 * [Default parameters](https://github.com/zhw2590582/js-quick-view/blob/master/Default_parameters.js)
-* [Method definitions](https://github.com/zhw2590582/js-quick-view/blob/master/Method_definitions.js)
-* [Rest parameters](https://github.com/zhw2590582/js-quick-view/blob/master/rest_parameters.js)
-* [getter](https://github.com/zhw2590582/js-quick-view/blob/master/getter.js)
-* [setter](https://github.com/zhw2590582/js-quick-view/blob/master/setter.js)
+* [Method definitions -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/Method_definitions.js)
+* [Rest parameters -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/rest_parameters.js)
+* [getter -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/getter.js)
+* [setter -- 完成](https://github.com/zhw2590582/js-quick-view/blob/master/setter.js)
 
 ## Classes
 * [constructor](https://github.com/zhw2590582/js-quick-view/blob/master/constructor.js)
